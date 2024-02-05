@@ -1,4 +1,4 @@
-def call()
+def call(name)
 {
-  echo "Hello All.........."
+  echo "Hello Mr. $name"
 }
